@@ -1,4 +1,4 @@
-![N予備校ロゴ]（nyobi_logo.png）
+![N予備校ロゴ](nyobi_logo.png)
 
 # About
 そらそらですそれ以下でもそれ以上でもないんです
